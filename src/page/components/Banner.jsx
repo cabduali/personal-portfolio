@@ -4,7 +4,7 @@ function Banner() {
   return (
     <div className='banner' id='Home'>
         <div className='content'>
-        <h1>  hi i'm <span className='Banner-name'>Abdullahi</span> </h1>
+        <h1>  Hi i'm <span className='Banner-name'>Abdullahi</span> </h1>
         <h2>Fullstack developer</h2>
         <p>a passionate developer with a keen interest </p>
         <span>in creating meaningful projects</span>
