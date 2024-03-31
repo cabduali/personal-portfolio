@@ -10,7 +10,7 @@ import icon5 from './image/icon-5.png'
 function Skills() {
   return (
     
-    <div className="container">
+    <div className="container" id='Skills'>
       <div className="main-title">
         <h1>My Skills</h1>
         <p>
