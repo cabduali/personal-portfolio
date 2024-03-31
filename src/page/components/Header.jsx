@@ -11,7 +11,7 @@ function Header() {
         <div className='nav'>
         <nav>
             <a href="">Home</a>
-            <a href="#BIO">About</a>
+            <a href="#Bio">About</a>
             <a href="#Skills">Skills</a>
             <a href="#projects " >projects</a>
             <a href="#myContact " className='contact'>contact</a>
